@@ -1,1 +1,1 @@
-# Three_card_poker-python-
+# Three_card_poker
